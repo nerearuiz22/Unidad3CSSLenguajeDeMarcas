@@ -1,0 +1,17 @@
+.p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+@font-face{
+  font-family: 'Roboto';
+  src: local("Roboto");
+  src:url(/fuentes/Roboto-Black.ttf);
+} 
+
+.h1 {
+  font-family: 'Roboto';
+}
+
+.h2 {
+  font-family: 'Roboto';
+}
