@@ -1,0 +1,10 @@
+.parent {
+    --background-color:red;
+    color:white;
+}
+.first {
+    --background-color:lightblue;
+}
+.child   {
+    background:var(--background-color, violet);
+}  
